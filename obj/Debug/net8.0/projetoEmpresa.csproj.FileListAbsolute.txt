@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\bin\Debug\net8.0\projetoEmpresa.exe
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\bin\Debug\net8.0\projetoEmpresa.deps.json
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\bin\Debug\net8.0\projetoEmpresa.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\bin\Debug\net8.0\projetoEmpresa.dll
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\bin\Debug\net8.0\projetoEmpresa.pdb
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.dll
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\refint\projetoEmpresa.dll
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.pdb
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\projetoEmpresa.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Projeto .Net\projetoEmpresa\obj\Debug\net8.0\ref\projetoEmpresa.dll
